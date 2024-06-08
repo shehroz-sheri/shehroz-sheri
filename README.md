@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shehrozsheri36347@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UUX8Ml4p867k-Z87qXerM8g1ife_4Syb/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AaYXzYs-E0Wd8KNM_VD8eusq1nhCXk-V/view?usp=drive_link)
 
 
 
