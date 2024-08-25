@@ -43,3 +43,9 @@
         </li>
         <li>Weather Forecast - React app to check weather <a href="https://weather-api-app-by-shehroz.vercel.app/" target="_blank">Link</a></li>   
     </ul>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shehroz-sheri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shehroz-sheri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shehroz-sheri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
