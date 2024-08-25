@@ -54,6 +54,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehroz-sheri&show_icons=true&locale=en&layout=compact" alt="shehroz-sheri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehroz-sheri&show_icons=true&locale=en" alt="shehroz-sheri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehroz-sheri&theme=light&hide_border=false" alt="shehroz-sheri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehroz-sheri&" alt="shehroz-sheri" /></p>
