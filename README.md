@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **code.shehroz@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AaYXzYs-E0Wd8KNM_VD8eusq1nhCXk-V/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11ZaE1nh7cWl32MPJwQAq6dL-t3w3bUjd/view)
 
 
 
