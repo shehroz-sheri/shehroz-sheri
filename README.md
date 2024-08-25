@@ -36,7 +36,7 @@
     <ul align="left">
         <li>
             Calendly - Appointment Management System <a
-                href="https://calendly-by-shehroz-arshad.vercel.app/" target="_blank">Link</a>
+                href="https://calendly-by-shehroz.vercel.app/" target="_blank">Link</a>
         </li>
         <li>
             Banking Website - Website for seamless banking transactions <a
