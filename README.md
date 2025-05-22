@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **code.shehroz@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15KJLpFqJwtsqzM-AHlPn3rkiUG27T2qj/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://shehroz-web.vercel.app/files/shehroz-arshad-resume.pdf)
 
 - 🌐 Here is my [Portfolio](https://shehroz-web.vercel.app/)
 
